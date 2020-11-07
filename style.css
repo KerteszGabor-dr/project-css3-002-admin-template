@@ -1,0 +1,37 @@
+style.css
+.header__title
+
+{
+    font-style: inline;
+    font-size: 1.25 em;
+    font-size: 1.25em;    
+    content: "Admin Page";
+}ˇ
+.header__search {
+        bottom: auto;
+        border-start-end-radius: 4px;
+        padding-top: 0.75;
+        padding-block-end: 0.375;
+        font-size: 1.2em;
+}
+.header__search.input >div {
+    font-size: 1.2rem;
+    color: 128, 189, 255;
+
+}
+.search__btn {
+    background-color: 0, 123, 255;
+    font-awesome: zoom;
+    }
+.main__card--blue {
+    background-color: 0, 123, 255;
+}
+.main__card--yellow {
+    background-color: 255, 193, 7;;
+}
+.main__card--green {
+    background-color: 40,167,69;
+}
+.main__card--red {
+    background-color: 220, 53m 69;
+}
