@@ -30,24 +30,24 @@ style.css
             padding1.5em;
 }
 .main__nav {
-    background-color: 33, 37, 41;
+    background-color: rgb(33, 37, 41);
 }
 .search__btn {
-    background-color: 0, 123, 255;
+    background-color: rgb(0, 123, 255);
     font-awesome: zoom;
     }
     .main__cards {
         bottom-radius: 25em;
     }
 .main__card--blue {
-    background-color: 0, 123, 255;
+    background-color: rgb(0, 123, 255);
 }
 .main__card--yellow {
-    background-color: 255, 193, 7;;
+    background-color: rgb(255, 193, 7);
 }
 .main__card--green {
-    background-color: 40,167,69;
+    background-color: rgb(40,167,69);
 }
 .main__card--red {
-    background-color: 220, 53m 69;
+    background-color: rgb(220, 53 69); 
 }
